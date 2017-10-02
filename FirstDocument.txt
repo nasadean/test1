@@ -1,7 +1,7 @@
 First change "Adding Text"
-<<<<<<< HEAD
+ 
 
 Second change "Adding more text"
-=======
+ 
 third change on Master "Creating a conflict with local repo"
->>>>>>> 3cb3f8d38436503a805c1c324edca5a106079513
+ 
