@@ -1,1 +1,2 @@
 First change "Adding Text"
+third change on Master "Creating a conflict with local repo"
